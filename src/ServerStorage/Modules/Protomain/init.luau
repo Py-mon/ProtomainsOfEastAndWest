@@ -8,7 +8,7 @@ local Stats = require(script.Stats)
 -- CONSTANTS
 local GLOSSY = {
 	CHANCE = 1 / 4096, -- Chance for a Protomain to be glossy
-	STAT_BONUS = 3, -- Stat Bonus of Glossies (might be too OP... maybe make more QOL)
+	STAT_BONUS = 3, -- Stat Bonus of Glossies (might be too OP... maybe make more Quality of Life)
 	-- all effort instantly?
 	-- guariteed stats
 }
